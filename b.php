@@ -116,3 +116,5 @@ if ($text == 'xafa') {
         $content = ['chat_id' => $chat_id, 'text' => "Sen nega xafasan", 'parse_mode' => 'markdown'];
         xabarYubor($content);
     }
+}
+
